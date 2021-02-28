@@ -1,17 +1,16 @@
-# Put title of your app here
+# MichiZone
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/AlexanderBemol/android-dev-challenge-cats/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
-
+The app was fully is fully builded with Jetpack Compose, shows a list of adorables kittys and if you click one, shows details from them
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+The motivation was to get practice with Jetpack Compose Beta. <br>
+I am proud of what i can did with the little amount of current the topic documentation.
 
 
 ## :camera_flash: Screenshots
