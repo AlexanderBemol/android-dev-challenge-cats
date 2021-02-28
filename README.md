@@ -10,6 +10,7 @@ The app was fully is fully builded with Jetpack Compose, shows a list of adorabl
 
 ## :bulb: Motivation and Context
 The motivation was to get practice with Jetpack Compose Beta. <br>
+The app was called MichiZone because in Mexico we use to call the cats "Michis" to refer to them in a cute way. <br>
 I am proud of what i can did with the little amount of current the topic documentation.
 
 
